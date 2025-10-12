@@ -24,7 +24,7 @@ ejercicio1()
 print('2. Variables non válidos:')
 print('Invalidos en (a): Salto- mortal, salto + mortal, 2salto, "salto"')
 print("Invalidos en (b): cantidade total")
-#3
+# 3.
 print('3. Expresar, utilizando operadores aritméticos:')
 print('a) (m + n) / n')
 print('b) ((m + n) / p) / ((p - r) / s)')
@@ -33,7 +33,7 @@ print('d) (c * r * t / 100)')
 print('e) (m + n) / (p + (q / r))')
 print('f) (m / n) * (p + q)')
 print('g) (n(1 + i) ** t) / ((1 + i) ** t - 1)')
-#4
+# 4.
 print('4. Avalia as seguintes expresións:')
 print('a) True and True == False'' ->', False)
 print('b) not False == True'' ->', True)
@@ -44,7 +44,7 @@ print('f) “12” + “12” == “24”'' ->', False,'-> "1212"')
 print('g) “34” + “43” == “3443”'' ->', True)
 print('h) 12 + 12 == 24'' ->', True)
 print('i) 34 + 43 == “3443”'' ->', False, '-> 77')
-#5
+# 5.
 def ejercicio5():
     print('5.  Avaliar espresións, tendo en conta as variables')
     def ejercicio5a():
