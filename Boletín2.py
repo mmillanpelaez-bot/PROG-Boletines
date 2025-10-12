@@ -1,0 +1,1 @@
+#1. Algoritmo calculador de triángulos
